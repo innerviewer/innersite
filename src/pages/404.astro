@@ -1,0 +1,15 @@
+---
+import { AppConfig } from '@/utils/AppConfig';
+import Base from '@/layouts/Base.astro';
+
+const { title } = AppConfig;
+const { description } = AppConfig;
+
+---
+
+<Base head={{ title, description }}>
+    <div class="flex flex-1 flex-col h-full w-full items-center justify-center">
+        <span class="font-black text-orange-600 text-2xl">404.</span>
+        <p>Page not found.</p>
+    </div>
+</Base>
