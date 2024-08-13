@@ -1,6 +1,6 @@
 export const AppConfig = {
-	site_name: 'InnerBlog',
-	title: 'InnerBlog',
+	site_name: 'InnerVision',
+	title: 'InnerVision',
 	description: "innerviewer's blog", 
 	author: 'innerviewer',
 	locale_region: 'en-en',
