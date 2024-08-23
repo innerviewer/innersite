@@ -191,7 +191,4 @@ bindsym $alt+Shift+0 move container to workspace number $ws20
 ```
 
 Of course, there is a much prettier and easier way to bind all the keys with `sxhkd`.
-Unfortunately, I ran into some problems trying to configure it.
-
-Right now, I have a problem with the cursor size across monitors.
-I'll update this post when I figure out how to fix it.
+Unfortunately, I ran into some problems trying to configure it, but I'll update this post once I figure it out.
